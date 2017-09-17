@@ -1,0 +1,16 @@
+D:\Project\Visual Studio 2015\Winforms_C#\InputData_Restaurants\InputData_DAO\obj\Debug\InputData_DAO.csprojResolveAssemblyReference.cache
+D:\Project\Visual Studio 2015\Winforms_C#\InputData_Restaurants\InputData_DAO\bin\Debug\InputData_DAO.dll
+D:\Project\Visual Studio 2015\Winforms_C#\InputData_Restaurants\InputData_DAO\bin\Debug\InputData_DAO.pdb
+D:\Project\Visual Studio 2015\Winforms_C#\InputData_Restaurants\InputData_DAO\bin\Debug\InputData_DTO.dll
+D:\Project\Visual Studio 2015\Winforms_C#\InputData_Restaurants\InputData_DAO\bin\Debug\InputData_DTO.pdb
+D:\Project\Visual Studio 2015\Winforms_C#\InputData_Restaurants\InputData_DAO\bin\Debug\EntityFramework.xml
+D:\Project\Visual Studio 2015\Winforms_C#\InputData_Restaurants\InputData_DAO\obj\Debug\InputData_DAO.dll
+D:\Project\Visual Studio 2015\Winforms_C#\InputData_Restaurants\InputData_DAO\obj\Debug\InputData_DAO.pdb
+D:\Project\Visual Studio 2015\Winforms_C#\InputData_Restaurants\InputData_DAO\bin\Debug\InputData_DAO.dll.config
+D:\Project\Visual Studio 2015\Winforms_C#\InputData_Restaurants\InputData_DAO\bin\Debug\EntityFramework.dll
+D:\Project\Visual Studio 2015\Winforms_C#\InputData_Restaurants\InputData_DAO\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\Visual Studio 2015\Winforms_C#\InputData_Restaurants\InputData_DAO\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Project\Visual Studio 2015\Winforms_C#\InputData_Restaurants\InputData_DAO\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Project\Visual Studio 2015\Winforms_C#\InputData_Restaurants\InputData_DAO\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\Visual Studio 2015\Winforms_C#\InputData_Restaurants\InputData_DAO\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Project\Visual Studio 2015\Winforms_C#\InputData_Restaurants\InputData_DAO\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
